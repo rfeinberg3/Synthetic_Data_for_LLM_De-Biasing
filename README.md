@@ -40,6 +40,9 @@ While the environmental footprint of generating synthetic data is a concern due 
 ## Conclusion
 This project aims to set a new standard in ethical AI development by providing accessible tools and resources for bias mitigation in LLMs. By leveraging synthetic data, we can help democratize the ability to create fairer AI systems, fostering a more inclusive and equitable digital future.
 
+## Ethical Considerations
+For detailed information on the ethical considerations related to this project, please see the [Ethical Considerations](ETHICAL_CONSIDERATIONS.md) document.
+
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
