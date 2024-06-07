@@ -41,7 +41,7 @@ While the environmental footprint of generating synthetic data is a concern due 
 This project aims to set a new standard in ethical AI development by providing accessible tools and resources for bias mitigation in LLMs. By leveraging synthetic data, we can help democratize the ability to create fairer AI systems, fostering a more inclusive and equitable digital future.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## References
 - [StereoSet Benchmark](https://github.com/moinnadeem/StereoSet)
