@@ -1,4 +1,4 @@
-# Synthetic Data for Small LLM De-Biasing
+# Synthetic Data for Small LM De-Biasing
 
 ## Overview
 Large Language Models (LLMs) have become increasingly prevalent due to their utility in various applications. However, these models often inherit biases present in the training data, leading to ethical concerns. This project focuses on creating a feasible way for small companies to train LLMs on a budget while maintaining ethical standards by reducing bias.
